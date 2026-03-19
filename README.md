@@ -4,6 +4,12 @@
 This project analyzes passenger traffic trends between Italy and Albania using Eurostat data.  
 The goal is to evaluate demand evolution, seasonality, and post-COVID recovery, and to provide a simple traffic forecast.
 
+## Traffic Trend & Forecast
+The chart below shows the evolution of passenger traffic and projected growth after COVID recovery.
+
+![Passenger Traffic](traffic_trend.png)
+The data highlights a sharp decline in 2020 due to COVID-19, followed by a strong recovery and sustained growth by increasing demand on the route.
+
 ## Key Insights
 - Strong post-COVID recovery with +56% CAGR
 - Stable long-term growth (Total CAGR: 16.5%)
